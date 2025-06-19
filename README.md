@@ -258,8 +258,6 @@ Este repositorio es una muestra de mi aprendizaje y desarrollo en el campo del N
 
 **Contacto:**
 * GitHub: [ezecaa](https://github.com/ezecaa)
-* [Tu LinkedIn (Opcional)]
-* [Tu Correo Electrónico (Opcional)]
 
 ---
 
