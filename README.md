@@ -53,7 +53,7 @@ En este desafío, se implementó un modelo de lenguaje a nivel de caracteres uti
 
 **Tecnologías Clave:**
 * TensorFlow / Keras
-* LSTMs (Long Short-Term Memory)
+* LSTMs (Long Short-Term Memory) - GRU
 * Tokenización por caracteres
 * Perplejidad (Perplexity)
 * Greedy Search, Beam Search, Sampling con Temperatura
