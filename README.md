@@ -1,4 +1,4 @@
-# Proyectos en Procesamiento de Lenguaje Natural (NLP)
+# Proyectos para la materia Procesamiento de Lenguaje Natural I (NLP) - Curso de Especialización en Inteligencia Artificial - FIUBA
 
 ![Banner del Curso NLP](https://github.com/ezecaa/nlp1/blob/main/portrait.png)
 
